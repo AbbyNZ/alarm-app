@@ -1,0 +1,22 @@
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\Test\bin\Debug\Test.exe.config
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\Test\bin\Debug\Test.exe
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\Test\bin\Debug\Test.pdb
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\Test\bin\Debug\ctrlAlarmLib.dll
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\Test\bin\Debug\ctrlAlarmLib.pdb
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\Test\obj\Debug\Test.csproj.GenerateResource.Cache
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\Test\obj\Debug\Test.exe
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\Test\obj\Debug\Test.pdb
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\Test\obj\Debug\Test.Test.resources
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\Test\bin\Debug\Test.exe.config
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\Test\obj\Debug\Test.exe
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\Test\obj\Debug\Test.pdb
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\Test\bin\Debug\Test.exe
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\Test\bin\Debug\Test.pdb
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\Test\bin\Debug\ctrlAlarmLib.dll
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\Test\bin\Debug\ctrlAlarmLib.pdb
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\Test\obj\Debug\Test.csprojResolveAssemblyReference.cache
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\Test\obj\Debug\Test.Test.resources
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\Test\obj\Debug\Test.Properties.Resources.resources
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\Test\obj\Debug\Test.csproj.GenerateResource.Cache

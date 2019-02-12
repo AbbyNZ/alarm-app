@@ -1,0 +1,28 @@
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\ctrlAlarmLib.ctrlAlarm.resources
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\ctrlAlarmLib.csproj.GenerateResource.Cache
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\ctrlAlarmLib\bin\Debug\ctrlAlarmLib.dll
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\ctrlAlarmLib\bin\Debug\ctrlAlarmLib.pdb
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\ctrlAlarmLib.dll
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\ctrlAlarmLib.pdb
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\ctrlAlarmLib.ctrlAlarmClock.resources
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\ctrlAlarmLib\bin\Debug\Interop.WMPLib.dll
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\ctrlAlarmLib\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\Interop.WMPLib.dll
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\ctrlAlarmLib.csproj.ResolveComReference.cache
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\ctrlAlarmLib.AlarmGame.resources
+C:\Users\riza\Documents\Visual Studio 2015\Projects\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\ctrlAlarmLib.csprojResolveAssemblyReference.cache
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\ctrlAlarmLib\bin\Debug\ctrlAlarmLib.dll
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\ctrlAlarmLib\bin\Debug\ctrlAlarmLib.pdb
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\ctrlAlarmLib\bin\Debug\Interop.WMPLib.dll
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\ctrlAlarmLib\bin\Debug\AxInterop.WMPLib.dll
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\ctrlAlarmLib.csprojResolveAssemblyReference.cache
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\Interop.WMPLib.dll
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\AxInterop.WMPLib.dll
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\ctrlAlarmLib.csproj.ResolveComReference.cache
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\ctrlAlarmLib.AlarmGame.resources
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\ctrlAlarmLib.ctrlAlarm.resources
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\ctrlAlarmLib.ctrlAlarmClock.resources
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\ctrlAlarmLib.csproj.GenerateResource.Cache
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\ctrlAlarmLib.dll
+E:\Berna\Unitec\2nd Sem 2016\ISCG7421 Adv Programme Devt\Assignment1\ctrlAlarmLib\ctrlAlarmLib\obj\Debug\ctrlAlarmLib.pdb
